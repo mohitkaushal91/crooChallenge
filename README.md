@@ -1,8 +1,8 @@
 # CrooChallenge
 
-There are two directories in this repository:
--> "Client" directory is for User Interface developed in React.js
--> "Server" directory is for Backend and APIs developed in Node.js
+There are two directories in this repository:<br/>
+-> "Client" directory is for User Interface developed in React.js<br/>
+-> "Server" directory is for Backend and APIs developed in Node.js<br/>
 
 To run this project:
 1. You have to navigate to Client Repository and run "npm start" command in terminal.
